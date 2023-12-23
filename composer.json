@@ -5,16 +5,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Julien Prugne",
-            "email": "julien@webeleon.dev"
-        },
-        {
-            "name": "Ersin Demirtas",
-            "email": "ed5@me.com"
+            "name": "TokLove",
+            "email": "superz2586@gmail.com"
         }
     ],
     "require": {
-        "php":">=7.2.5",
+        "php":">=8.0",
         "ext-json": "*",
         "guzzlehttp/guzzle": "^6.4.0",
         "amphp/websocket-client": "^0.2.4",
