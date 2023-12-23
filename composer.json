@@ -1,5 +1,5 @@
 {
-    "name": "polygon-client-php",
+    "name": "toklove/polygon-client-php",
     "description": "polygon.io php client",
     "type": "library",
     "license": "MIT",
